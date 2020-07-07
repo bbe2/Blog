@@ -4,15 +4,16 @@ Timeline evidence of research growth, applied techniques, deep-dives, and achiev
 
 07/xx/20 - building evidence for Amazon STAR behavioral interviewing
 
-Summer: Building evidence portfolio of abilities to support employment as researcher and adjunct lecturer.
-6/20 (article) What I Wish I Had Known Early in Graduate School but Didn't--and How to Prepare For a Good Job Afterward. Sven Kroeger
+07/01/20: Building portfolio evidence of abilities to support employment as researcher and adjunct lecturer.
+06/20/20 (research)(article) What I Wish I Had Known Early in Graduate School but Didn't and How to Prepare For a Good Job Afterward. Sven Koenig
     => importance of setting early portfolio direction and building evidence of abilities for transparency
+05/15/20 - Tutoring w DaveP (oracle)
 06/15/20 - Accepted Golden Key International Honor Society
-06/01/20 - Deep dive study into editing Chicago Style
+06/01/20 - Deep dive into editing with Chicago Style
 05/15/20 - Manuscript editing for scientific journal publishing with Accdon, LLC. 
-       =>Enjoy editing papers for journals and using skills developed with a close PhD friend
-April 2020 - covid support of front line nurse partner \ job search
-March 2020 - finished Data Science classes! :) (unfortunately start of covid mass lockdown)
+         =>Enjoy journal editing and skill development over 10 years experience
+April 2020 - portfolio completion 
+March 2020 - finished Data Science classes! (unfortunately start of covid lockdown)
 
 M.S. Applied Data Science, 2020 Syracuse University
 --Class Summary--                                -Programs-     -Grade-   Notes
