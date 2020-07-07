@@ -3,10 +3,10 @@ Timeline evidence of research growth, applied techniques, deep-dives, and achiev
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 07/xx/20 - building evidence for Amazon STAR behavioral interviewing
-
 07/01/20: Building portfolio evidence of abilities to support employment as researcher and adjunct lecturer.
 06/20/20 (research)(article) What I Wish I Had Known Early in Graduate School but Didn't and How to Prepare For a Good Job Afterward. Sven Koenig
-    => importance of setting early portfolio direction and building evidence of abilities for transparency
+    => importance of setting early portfolio direction and building evidence of abilities for transparency w peer groups
+    => 5 principals:
 05/15/20 - Tutoring w DaveP (oracle)
 06/15/20 - Accepted Golden Key International Honor Society
 06/01/20 - Deep dive into editing with Chicago Style
