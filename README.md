@@ -2,8 +2,11 @@
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-mid july - preparing for Amazon bus. intelligence engineer interview    
-mid july - keep tabs on MSFT research...https://github.com/VowpalWabbit/vowpal_wabbit/wiki  
+mid july -  
+            Completed portfolio draft. Building out analysis mechanics while in heavy job search mode  
+            Excellent book: Deep Learning w Pytorch, Stevens, Antiga, Viehmann | Learning methods  
+            preparing for Amazon bus. intelligence engineer interview    
+            keep tabs on MSFT research...https://github.com/VowpalWabbit/vowpal_wabbit/wiki  
 07/xx/20 - building evidence for Amazon STAR behavioral interviewing  
 07/01/20: Building portfolio evidence of abilities to support employment as researcher and adjunct lecturer.  
 06/20/20 (research)(article) What I Wish I Had Known Early in Graduate School but Didn't and How to Prepare For a Good Job Afterward. Sven Koenig  
@@ -11,9 +14,9 @@ mid july - keep tabs on MSFT research...https://github.com/VowpalWabbit/vowpal_w
     => 5 principals:  
 05/15/20 - Tutoring w DaveP (oracle)  
 06/15/20 - Accepted Golden Key International Honor Society  
-06/01/20 - Deep dive into editing with Chicago Style  
+06/01/20 - Deep dive studying of scientific editing with Chicago Style  
 05/15/20 - Manuscript editing for scientific journal publishing with Accdon, LLC.  
-         =>Enjoy journal editing and skill development over 10 years experience  
+            => over 10 years experience editing white papers, academic papers.
 April 2020 - portfolio completion   
 March 2020 - finished Data Science classes! (unfortunately start of covid lockdown)  
 
