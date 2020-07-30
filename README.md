@@ -2,7 +2,7 @@
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
+mid july - preparing for Amazon bus. intelligence engineer interview    
 mid july - keep tabs on MSFT research...https://github.com/VowpalWabbit/vowpal_wabbit/wiki  
 07/xx/20 - building evidence for Amazon STAR behavioral interviewing  
 07/01/20: Building portfolio evidence of abilities to support employment as researcher and adjunct lecturer.  
