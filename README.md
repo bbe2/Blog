@@ -2,17 +2,30 @@
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+mid Aug -   goal: going to build own target models  
+            Amazon(AWS) have targeted going to get my own production models running in AWS - sagemaker  
+            I want to have a personal video drones that go around with you taking video  
+            not sure how to parse video to small start\stop sections but hope to figure out with Alexa  
+            ---------
+            really like the Data Science lab builder position at https://www.codecademy.com/about
+            contact from DaveP - Zhou is contact from NY R conference
+08/07/20 -  doug atkinson, Tim  => start near end August  
+            Solutions Review, Research Writer, https://solutionsreview.com/, Woburn, MA  
+            Research, analyze, and write 15 in-depth technology acceptance model cases for business executives  
 mid july -  
             Completed portfolio draft. Building out analysis mechanics while in heavy job search mode  
             Excellent book: Deep Learning w Pytorch, Stevens, Antiga, Viehmann | Learning methods  
             preparing for Amazon bus. intelligence engineer interview    
             keep tabs on MSFT research...https://github.com/VowpalWabbit/vowpal_wabbit/wiki  
 07/xx/20 - building evidence for Amazon STAR behavioral interviewing  
+            Outcome: got nervous on coding section as IDE can use any language. Bummer! Valuable lesson
+            not sure why blanked as havent got so nervous in a while but now building new habit to practice daily
 07/01/20: Building portfolio evidence of abilities to support employment as researcher and adjunct lecturer.  
 06/20/20 (research)(article) What I Wish I Had Known Early in Graduate School but Didn't and How to Prepare For a Good Job Afterward. Sven Koenig  
     => importance of setting early portfolio direction and building evidence of abilities for transparency w peer groups  
     => 5 principals:  
 05/15/20 - Tutoring w DaveP (oracle)  
+            (update): 
 06/15/20 - Accepted Golden Key International Honor Society  
 06/01/20 - Deep dive studying of scientific editing with Chicago Style  
 05/15/20 - Manuscript editing for scientific journal publishing with Accdon, LLC.  
