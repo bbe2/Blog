@@ -2,9 +2,8 @@
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-mid Aug -   goal: going to build own target models  
-            Amazon(AWS) have targeted going to get my own production models running in AWS - sagemaker  
-            I want to have a personal video drones that go around with you taking video  
+mid Aug -   goal: going to build production models of different sorts in AWS-Sagemaker  
+            Aspiration: I want to have a personal video drones that go around with you taking video  
             not sure how to parse video to small start\stop sections but hope to figure out with Alexa  
             ---------
             really like the Data Science lab builder position at https://www.codecademy.com/about
@@ -25,9 +24,11 @@ mid july -
     => importance of setting early portfolio direction and building evidence of abilities for transparency w peer groups  
     => 5 principals:  
 05/15/20 - Tutoring w DaveP (oracle)  
-            (update): 
+            (update): helped w job leads Amazon, Oracle, didn't hear anything MSFT
 06/15/20 - Accepted Golden Key International Honor Society  
-06/01/20 - Deep dive studying of scientific editing with Chicago Style  
+06/01/20 - Deep dive studying of scientific editing with Chicago Style
+            Editor, Accdon, LLC, https://www.accdon.com/, Waltham, MA  
+               =>Edit and prepare scientific manuscripts for peer-review journal publication  
 05/15/20 - Manuscript editing for scientific journal publishing with Accdon, LLC.  
             => over 10 years experience editing white papers, academic papers.
 April 2020 - portfolio completion   
