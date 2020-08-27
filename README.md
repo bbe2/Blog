@@ -3,8 +3,8 @@ Timeline evidence of research growth, applied techniques, deep-dives, and achiev
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 mid Aug -   goal: going to build production models of different sorts in AWS-Sagemaker  
-            Aspiration: I want to have a personal video drones that go around with you taking video  
-            not sure how to parse video to small start\stop sections but hope to figure out with Alexa  
+            Aspiration: have personal video drones as common companions doing interesting things.  
+                        not sure how to parse video to small start\stop sections; hope to figure out with Alexa  
             ---------
             really like the Data Science lab builder position at https://www.codecademy.com/about
             contact from DaveP - Zhou is contact from NY R conference
