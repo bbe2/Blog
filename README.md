@@ -2,6 +2,10 @@
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Early Sept  Figured out AWS certification pathways. Got all AWS accounts running. Doing ML certification.  
+
+
+            Finished teaching philosophy !  
 mid Aug -   goal: going to build production models of different sorts in AWS-Sagemaker  
             Aspiration: have personal video drones as common companions doing interesting things.  
                         not sure how to parse video to small start\stop sections; hope to figure out with Alexa  
