@@ -1,10 +1,14 @@
 # Blog
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+Nov         Finished grad school portfolio for graduation  
+            Began AWS certification process for machine learning.  
+                        -- learned significant network for getting access to ML team  
+Oct + Nov   Been working steadily in AWS building skill kit.  
+            Hired as Supply Chain Associate at Jackson Lumber & Millwork, Lawrence, MA.  
+                        --will be performing lumber projections and yard inventory projections  
+                        --want to apply ML to high-end customer base by region inventory shipped to  
 Early Sept  Figured out AWS certification pathways. Got all AWS accounts running. Doing ML certification.  
-
-
             Finished teaching philosophy !  
 mid Aug -   goal: going to build production models of different sorts in AWS-Sagemaker  
             Aspiration: have personal video drones as common companions doing interesting things.  
