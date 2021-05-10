@@ -1,7 +1,8 @@
 # Blog
 Timeline evidence of research growth, applied techniques, deep-dives, and achievements
-Dec         Graduated but adminstrative delay till 2/12/2021
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+Dec         Graduated but adminstrative delay till 2/12/2021  
 Nov         Finished grad school portfolio for graduation  
             Began AWS certification process for machine learning.  
                         -- learned significant network for getting access to ML team  
